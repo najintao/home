@@ -17,7 +17,7 @@ h2 {
 	}
 h3 {
 	font-size:24px;
-	color:#22ffff;
+	color:#000000;
 	background-color:#000000;
 	}
 h4, h5, h6 {
@@ -28,7 +28,7 @@ h4, h5, h6 {
 
 a {
 	text-decoration:none;
-	color:#000000;
+	color:#ffffff;
 	}
 	
 a:hover {
