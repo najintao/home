@@ -1,0 +1,182 @@
+body {
+  background-color: #E0B0FF;
+  padding: 5px;
+  margin: 20px;
+}
+
+img {
+  width: 550px;
+  height: 450px;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  display: inline;
+  float: left;
+  padding:15px;
+  font-size: 26px;
+}
+a {
+  display: block;
+}
+
+p { clear: both;
+}
+
+
+.portfolio-image {
+    clear: both;
+}
+body {
+  background-color: #E0B0FF;
+  padding: 25px;
+  margin: 70px;
+}
+
+img {
+  width: 600px;
+  height: 350px;
+  float: left;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  display: inline;
+  float: left;
+  padding:15px;
+  font-size:26px;
+}
+a {
+  display: block;
+}
+
+.portfolio-image {
+   clear: both;
+}
+#portrait1 {
+  float: left;
+  width: 200px,
+}
+#about {
+  float: left;
+  width: 600px;
+  font-size: 18px;
+  text-alignment: left;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  padding: 25px;
+}
+
+p{
+  text-alignment: center;
+}
+body {
+  background-color: #E0B0FF;
+  padding: 5px;
+  margin: 20px;
+}
+
+img {
+  width: 950px;
+  height: 400px;
+  float: center;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  display: inline;
+  float: left;
+  padding: 15px;
+  font-size:24px;
+}
+a {
+  display: block;
+}
+
+.portfolio-image {
+  clear: both;
+  float: left;
+}
+body {
+  background-color: #E0B0FF;
+  padding: 5px;
+  margin: 20px;
+}
+
+img {
+  width: 50px;
+  height: 50px;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  display: inline;
+  float: left;
+  font-size:26px
+}
+a {
+  display: block;
+  margin-right: 20px;
+}
+
+h1 {
+    clear: both;
+}
+
+h3.email a {
+  border:0;
+}
+body {
+  background-color: #E0B0FF;
+}
+img {
+  width: 770px;
+  height: 330px;
+  float: left;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  display: inline;
+  float: left;
+  padding: 15px;
+  font-size: 24px;
+}
+a {
+  display: block;
+}
+#about {
+  float: left;
+  width: 600px;
+  font-size: 18px;
+  margin-right: auto;
+  display: block;
+  padding: 25px;
+}
+body {
+  background-color: #E0B0FF;
+}
